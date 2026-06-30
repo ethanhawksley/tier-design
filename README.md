@@ -16,7 +16,7 @@ An online tier-list maker that supports uploading images and downloading the res
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/ethan-hawksley/tier-design
+   git clone https://github.com/ethanhawksley/tier-design
    cd tier-design
    ```
 2. Install dependencies
